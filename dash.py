@@ -4,7 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import time
-from pandas.core._numba.kernels import mean_
 
 df = pd.read_csv("bank.csv")
 
