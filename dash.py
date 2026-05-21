@@ -45,4 +45,3 @@ with col2:
     st.pyplot(fig2)
 st.markdown("### Detailed data view")
 st.dataframe(df)
-time.sleep()
